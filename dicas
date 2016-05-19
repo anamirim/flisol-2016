@@ -2,9 +2,9 @@ COMO CRIAR UM REPOSITÓRIO******************************************
 
 git config --global user.name "Ana Paula"
 
-git config --global user.email "ana_pauladarosa@yahoo.com.br"git 
+git config --global user.email "ana_pauladarosa@yahoo.com.br"
 
-config --list
+git config --list
 
 mkdir flisol-2016
 
